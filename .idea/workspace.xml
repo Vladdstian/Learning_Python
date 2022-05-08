@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="added pycharm setup files that i keep deleting :(">
-      <change afterPath="$PROJECT_DIR$/Day 2/Basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="updating basic info that i am learning for the second day!">
+      <change beforePath="$PROJECT_DIR$/Day 2/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Basics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651991584388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added pycharm setup files that i keep deleting :(">
+      <created>1651992573148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651992573148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updating basic info that i am learning for the second day!">
+      <created>1651992611940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651992611940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learn to print ;)" />
     <MESSAGE value="added pycharm setup files that i keep deleting :(" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pycharm setup files that i keep deleting :(" />
+    <MESSAGE value="updating basic info that i am learning for the second day!" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating basic info that i am learning for the second day!" />
   </component>
 </project>
