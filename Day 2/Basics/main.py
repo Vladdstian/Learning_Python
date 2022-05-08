@@ -26,6 +26,14 @@ type(int_example)  # this function will result in class 'int' because it is of t
 str(float2_example)  # this function will convert the variable from a float to a string
 # to change a data type into another data type we use this function data_type_we_want(data_type_we_have)
 
+# Mathematical operations
+# same as in math :D and the order of operations is respected
+# some other operations:
+exponent = 2 ** 8
+modulus = 11 % 5  # will give the result 1 because it is the remainder
+division = 6 / 2  # the type of division will always be a float
+# Order of operations - PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction)
+# the order of operations is respecting the order left to right
 
 # string manipulation
 len(string_example)  # gives the length of a string - using another data type like int will give an error
