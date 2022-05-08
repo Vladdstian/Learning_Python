@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="more exercises to come... or projects">
-      <change afterPath="$PROJECT_DIR$/Day 2/Basics/exercise2.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="second project - Bill calculation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Basics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.exercise2">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 1/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2/Projects/Tip_Calculator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 1/Basics/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Projects/Tip_Calculator/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.exercise2" />
         <item itemvalue="Python.exercise1" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +224,35 @@
       <option name="project" value="LOCAL" />
       <updated>1651998016887</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="exercises and more information :)">
+      <created>1651999782504</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651999782504</updated>
+    </task>
+    <task id="LOCAL-00011" summary="still pycharm files :(">
+      <created>1651999800031</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651999800031</updated>
+    </task>
+    <task id="LOCAL-00012" summary="do you know how many days, weeks and months you have left until 90 years old?">
+      <created>1652001463007</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652001463007</updated>
+    </task>
+    <task id="LOCAL-00013" summary="second project - Bill calculation">
+      <created>1652002495463</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652002495463</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +274,10 @@
     <MESSAGE value="second day, first project! Yay!" />
     <MESSAGE value="...going further with the information today" />
     <MESSAGE value="more exercises to come... or projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="more exercises to come... or projects" />
+    <MESSAGE value="exercises and more information :)" />
+    <MESSAGE value="still pycharm files :(" />
+    <MESSAGE value="do you know how many days, weeks and months you have left until 90 years old?" />
+    <MESSAGE value="second project - Bill calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="second project - Bill calculation" />
   </component>
 </project>
