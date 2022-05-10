@@ -1,5 +1,5 @@
 # Randomisation and Python Lists
-# "ask python.com" the best thing when learning python
+# "askpython.com" the best thing when learning python
 
 import random  # import the module of random
 import my_module  # import the module that I created
@@ -19,4 +19,14 @@ print(random2_float)  # discovered shortcut to duplicate: select what you want a
 # Data structures : Lists
 fruits = ["strawberry", "apple"]  # example of a list
 print(fruits[0])  # restores the first item in the list in the order that was saved
+print(fruits[-1])  # restores the last item in the list; -1 means it will start counting down from the end of the list
+fruits[1] = "watermelon"  # changes the value of the item at the index 1
+fruits.append("apple")  # adds a new item at the END of the list
+fruits.extend("pear", "mango", "grapes", "peaches", "cherries")  # adds multiple values at the END of the list
+# other functions can be used to work with lists - find info at "docs.python.org"
+# Don't memorise all the functions as they are easily available in the documentation
 
+vegetables = ["spinach", "kale", "tomatoes", "Potatoes"]
+
+dirty_dozen = [fruits, vegetables]  # this is a list made out of lists
+print(dirty_dozen[0][0])  # will print the first value (strawberry) from the first list(fruits) in dirty dozen
