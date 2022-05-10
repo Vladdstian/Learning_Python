@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="Randomisation, Lists and some exercise">
-      <change afterPath="$PROJECT_DIR$/Day 4/Basics/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Basics/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Projects/Rock_Paper_Scissors/main.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
+      <change afterPath="$PROJECT_DIR$/Day 4/Basics/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Basics/exercise5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Basics/exercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 4/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Basics/main.py" afterDir="false" />
     </list>
@@ -26,6 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="28s3RxbjjkDNQF6Dl3EUPaI1dM9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,8 +50,8 @@
       <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="exercise4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/exercise4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/exercise3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/exercise5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Basics/exercise6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 3/Projects/Treasure_Island" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 3/Projects/Treasure_Island/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.exercise3 (1)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.exercise1" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.exercise6" />
+        <item itemvalue="Python.exercise5" />
+        <item itemvalue="Python.exercise4" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +322,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652172448096</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Randomisation, Lists and some exercises">
+      <created>1652192075987</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1652192075987</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Rock, Paper, Scissors game">
+      <created>1652192103839</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1652192103839</updated>
+    </task>
+    <task id="LOCAL-00024" summary="workspace files">
+      <created>1652192116290</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652192116290</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,8 +375,10 @@
     <MESSAGE value="nothing special... control update" />
     <MESSAGE value="pizza price calculator exercise and true love compatibility exercise" />
     <MESSAGE value="Treasure island game" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="Randomisation, Lists and some exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Randomisation, Lists and some exercise" />
+    <MESSAGE value="Randomisation, Lists and some exercises" />
+    <MESSAGE value="Rock, Paper, Scissors game" />
+    <MESSAGE value="workspace files" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
 </project>
