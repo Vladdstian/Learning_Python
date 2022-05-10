@@ -30,3 +30,29 @@ vegetables = ["spinach", "kale", "tomatoes", "Potatoes"]
 
 dirty_dozen = [fruits, vegetables]  # this is a list made out of lists
 print(dirty_dozen[0][0])  # will print the first value (strawberry) from the first list(fruits) in dirty dozen
+
+# Python Loops
+
+# 1st loop - FOR loop
+for fruit in fruits:
+    print(fruit)  # it loops through the fruits list and prints the value of each item/fruit in the list
+    print(fruit + " Pie")
+
+even_sum = 0
+for numbers in range(0, 101, 2):  # calculates the sum of all even numbers from 0 to 100 (increments by 2)
+    even_sum += numbers
+print(even_sum)
+
+
+# Calling and Defining Functions
+
+print()  # this is a function: it is followed by the () and it acts on the "things" that are inside the parenthesis
+
+
+# this is a custom function
+def my_function():
+    print("Hello, Vlad")
+
+
+# to call the custom function
+my_function()
