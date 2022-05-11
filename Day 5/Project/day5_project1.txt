@@ -1,0 +1,20 @@
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+def keep_right():
+    turn_left()
+    turn_left()
+    turn_left()
+    if front_is_clear():
+        move()
+    else:
+        turn_left()
+
+while not at_goal():
+    if front_is_clear() and not wall_on_right():
+        keep_right()
+    elif front_is_clear():
+        move()
+    elif not wall_on_right():
+        keep_right()
+    else:
+        turn_left()
