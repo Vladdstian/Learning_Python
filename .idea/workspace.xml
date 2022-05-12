@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 6/Basics/exercise1_day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Basics/exercise2_day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Basics/main_day6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,28 @@
       <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercise2_day6">
+  <component name="RunManager" selected="Python.caesar_cipher">
+    <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercise1_day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,27 +136,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main_day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.caesar_cipher" />
         <item itemvalue="Python.exercise2_day6" />
         <item itemvalue="Python.exercise1_day6" />
         <item itemvalue="Python.main_day6" />
         <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652367231248</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="functions with inputs, prime number checker and other exercises">
+      <created>1652375917688</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652375917688</updated>
+    </task>
+    <task id="LOCAL-00033" summary="workspace files">
+      <created>1652375931414</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652375931414</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn to print ;)" />
     <MESSAGE value="added pycharm setup files that i keep deleting :(" />
     <MESSAGE value="updating basic info that i am learning for the second day!" />
     <MESSAGE value="updating basic info that I am learning for the second day!" />
@@ -434,6 +445,7 @@
     <MESSAGE value="PyPasswordGenerator project" />
     <MESSAGE value="Indentation, while loops and Reeborg's maze" />
     <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
+    <MESSAGE value="functions with inputs, prime number checker and other exercises" />
     <MESSAGE value="workspace files" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
