@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +414,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652377405377</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="the most interesting project till now - Caesar Cipher - encrypt and decode messages">
+      <created>1652378287754</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378287754</updated>
+    </task>
+    <task id="LOCAL-00036" summary="workspace files">
+      <created>1652378299107</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378299107</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added pycharm setup files that i keep deleting :(" />
     <MESSAGE value="updating basic info that i am learning for the second day!" />
     <MESSAGE value="updating basic info that I am learning for the second day!" />
     <MESSAGE value="second day, first project! Yay!" />
@@ -453,6 +466,7 @@
     <MESSAGE value="Indentation, while loops and Reeborg's maze" />
     <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
     <MESSAGE value="functions with inputs, prime number checker and other exercises" />
+    <MESSAGE value="the most interesting project till now - Caesar Cipher - encrypt and decode messages" />
     <MESSAGE value="workspace files" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
