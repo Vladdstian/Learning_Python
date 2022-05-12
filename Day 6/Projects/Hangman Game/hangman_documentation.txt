@@ -1,0 +1,17 @@
+How to break a complex problem into a flow chart : it is easier to think how the game will play step-by-step
+This means starting from how the word is chosen, up until it is correctly guessed or the player has no more lives
+
+    Step-by-Step flow chart for HANGMAN Game
+1. Generate a random word
+2. Generate as many blanks as letters in the word
+3. Ask the user to guess a letter
+4. Is the guessed letter in the word?
+        4.1. If yes -> Replace the blank with the letter
+                    -> Are all the blanks filled?
+                            4.1.1. if no  -> go back to step 3
+                            4.1.2. if yes -> GAME OVER
+        4.2. If No  -> lose a life
+                    -> Have they run out of lives?:
+                            4.2.1.  if no  -> go back to step 3
+                            4.2.2.  if yes -> GAME OVER
+
