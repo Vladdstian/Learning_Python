@@ -34,7 +34,7 @@ programming_dictionary = {}
 capitals = {
     "France": "Paris",
     "Germany": "Berlin",
-    "Romania": "bucharest",
+    "Romania": "Bucharest",
 }
 
 travel_log = [
@@ -50,4 +50,24 @@ travel_log = [
     },
 ]
 
+
 # better to use lists as a main since they are ordered and dictionaries no
+
+
+# Functions with output
+# Function with only 1 return statement
+def my_function(a, b):
+    return a + b  # this function will have as output the sum of the 2 input numbers
+# a function can return only one result, but you can have multiple return statements, for example in "if" conditional
+
+
+def my_own_funct(f_name, l_name):
+    """Take a first and last name and format it to return the title case version of the name"""
+    # the string above is a Docstring, and it is useful to describe the custom function
+    # it will appear when calling the function to describe what it does
+    if f_name == "" or l_name == "":
+        return "You didn't provide valid inputs"
+    formatted_f_name = f_name.title()
+    formatted_l_name = l_name.title()
+    return f"Result {formatted_f_name}  {formatted_l_name}"
+
