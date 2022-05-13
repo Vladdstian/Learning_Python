@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="small update">
-      <change afterPath="$PROJECT_DIR$/Day 7/Basics/exercise1_day7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Basics/main_day7.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="Secret auction project">
+      <change afterPath="$PROJECT_DIR$/Day 7/Basics/exercise3_day7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Basics/main_day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/Basics/main_day7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercise1_day7">
+  <component name="RunManager" selected="Python.secret_auction">
     <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise1_day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6/Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/Basics/exercise1_day6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise2_day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise2_day7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7/Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/Basics/exercise2_day6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/Basics/exercise2_day7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,13 +141,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="secret_auction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7/Projects/Secret Auction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/Projects/Secret Auction/secret_auction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.secret_auction" />
+        <item itemvalue="Python.exercise2_day7" />
         <item itemvalue="Python.exercise1_day7" />
         <item itemvalue="Python.main_day7" />
         <item itemvalue="Python.caesar_cipher" />
-        <item itemvalue="Python.exercise2_day6" />
-        <item itemvalue="Python.exercise1_day6" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +440,42 @@
       <option name="project" value="LOCAL" />
       <updated>1652378433994</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Dictionaries and an exercise for this concept">
+      <created>1652434840779</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1652434840779</updated>
+    </task>
+    <task id="LOCAL-00039" summary="workspace files">
+      <created>1652434878212</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1652434878212</updated>
+    </task>
+    <task id="LOCAL-00040" summary="nesting dictionaries and lists">
+      <created>1652436353271</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1652436353271</updated>
+    </task>
+    <task id="LOCAL-00041" summary="exercise to understand nesting of dict and lists">
+      <created>1652436708865</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1652436708865</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Secret auction project">
+      <created>1652439426631</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1652439426631</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,10 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updating basic info that I am learning for the second day!" />
-    <MESSAGE value="second day, first project! Yay!" />
-    <MESSAGE value="...going further with the information today" />
-    <MESSAGE value="more exercises to come... or projects" />
     <MESSAGE value="exercises and more information :)" />
     <MESSAGE value="still pycharm files :(" />
     <MESSAGE value="do you know how many days, weeks and months you have left until 90 years old?" />
@@ -478,8 +509,12 @@
     <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
     <MESSAGE value="functions with inputs, prime number checker and other exercises" />
     <MESSAGE value="the most interesting project till now - Caesar Cipher - encrypt and decode messages" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="small update" />
-    <option name="LAST_COMMIT_MESSAGE" value="small update" />
+    <MESSAGE value="Dictionaries and an exercise for this concept" />
+    <MESSAGE value="workspace files" />
+    <MESSAGE value="nesting dictionaries and lists" />
+    <MESSAGE value="exercise to understand nesting of dict and lists" />
+    <MESSAGE value="Secret auction project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secret auction project" />
   </component>
 </project>
