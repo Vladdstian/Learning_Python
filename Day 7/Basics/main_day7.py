@@ -24,8 +24,30 @@ for key in programming_dictionary:
     print(key)  # loops through the keys of the dictionary
     print(programming_dictionary[key])  # loops through the values
 
-
 # usually, in real life a dictionary is created empty and pairs are added like above
 # the creation of a dictionary (below) is also used to clear all the items inside it - delete everything
 programming_dictionary = {}
 
+# Nesting
+# Dictionaries and Lists can be viewed as a folder and nesting is just a matter of putting one inside the other
+# For example. a dictionary can have as keys and list or dictionaries values
+capitals = {
+    "France": "Paris",
+    "Germany": "Berlin",
+    "Romania": "bucharest",
+}
+
+travel_log = [
+    {
+        "country": "France",
+        "cities_visited": ["Paris", "Lille", "Lyon"],
+        "total_visits": 12
+    },
+    {
+        "country": "Germany",
+        "cities_visited": ["Berlin", "Stuttgart", "Hamburg"],
+        "total_visits": 5
+    },
+]
+
+# better to use lists as a main since they are ordered and dictionaries no
