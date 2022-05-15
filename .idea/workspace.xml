@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="small updates to calculator program">
-      <change afterPath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack_rules.txt" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="scrap old try of the blackjack game and start from scratch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1_day7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ceva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 8/Projects/Blackjack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/Basics/exercise1_day7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 8/Projects/Blackjack/ceva.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise2_day7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="old_blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 8/Projects/Blackjack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/Basics/exercise2_day7.py" />
+      <option name="SCRIPT_NAME" value="D:\Pycharm\Learning_Python\Day 8\Projects\Blackjack\old_blackjack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secret_auction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="old_blackjack2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7/Projects/Secret Auction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 8/Projects/Blackjack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/Projects/Secret Auction/secret_auction.py" />
+      <option name="SCRIPT_NAME" value="D:\Pycharm\Learning_Python\Day 8\Projects\Blackjack\old_blackjack2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,10 +164,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.blackjack" />
+        <item itemvalue="Python.ceva" />
+        <item itemvalue="Python.old_blackjack2" />
+        <item itemvalue="Python.old_blackjack" />
         <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.secret_auction" />
-        <item itemvalue="Python.exercise2_day7" />
-        <item itemvalue="Python.exercise1_day7" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +488,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652543689425</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="blackjack project start">
+      <created>1652547789615</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652547789615</updated>
+    </task>
+    <task id="LOCAL-00046" summary="workspace updates">
+      <created>1652547804953</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652547804953</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update blackjack game ... work in progress">
+      <created>1652599145624</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1652599145624</updated>
+    </task>
+    <task id="LOCAL-00048" summary="scrap old try of the blackjack game and start from scratch">
+      <created>1652617866224</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1652617866224</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,10 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="do you know how many days, weeks and months you have left until 90 years old?" />
-    <MESSAGE value="second project - Bill calculation" />
-    <MESSAGE value="pycharm files... I think so" />
-    <MESSAGE value="still learning... if statements and logical operators" />
     <MESSAGE value="environment files" />
     <MESSAGE value="nothing special... control update" />
     <MESSAGE value="pizza price calculator exercise and true love compatibility exercise" />
@@ -529,6 +552,10 @@
     <MESSAGE value="Secret auction project" />
     <MESSAGE value="calculator project" />
     <MESSAGE value="small updates to calculator program" />
-    <option name="LAST_COMMIT_MESSAGE" value="small updates to calculator program" />
+    <MESSAGE value="blackjack project start" />
+    <MESSAGE value="workspace updates" />
+    <MESSAGE value="update blackjack game ... work in progress" />
+    <MESSAGE value="scrap old try of the blackjack game and start from scratch" />
+    <option name="LAST_COMMIT_MESSAGE" value="scrap old try of the blackjack game and start from scratch" />
   </component>
 </project>
