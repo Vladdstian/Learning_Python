@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="scrap old try of the blackjack game and start from scratch">
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="global and local scope of variables - I have to work more on this">
+      <change afterPath="$PROJECT_DIR$/Day 10/Projects/Number Guessing Game/logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 10/Projects/Number Guessing Game/number_guessing_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +42,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 7/Basics&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 9&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 9" />
       <recent name="D:\Pycharm\Learning_Python\Day 7\Basics" />
       <recent name="D:\Pycharm\Learning_Python\Day 5\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 10\Projects\Number Guessing Game" />
+      <recent name="D:\Pycharm\Learning_Python\Day 9\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 6\Projects\Hangman Game" />
       <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
@@ -173,40 +177,12 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="learn to print ;)">
-      <created>1651943340991</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1651943340991</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="learn to print ;)" />
       <created>1651991463069</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added pycharm setup files that i keep deleting :(">
-      <created>1651991584388</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1651991584388</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added pycharm setup files that i keep deleting :(">
-      <created>1651992573148</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1651992573148</updated>
-    </task>
-    <task id="LOCAL-00004" summary="updating basic info that i am learning for the second day!">
-      <created>1651992611940</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651992611940</updated>
     </task>
     <task id="LOCAL-00005" summary="updating basic info that I am learning for the second day!">
       <created>1651993142911</created>
@@ -516,7 +492,42 @@
       <option name="project" value="LOCAL" />
       <updated>1652617866224</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="scrap old try of the blackjack game and start from scratch">
+      <created>1652622329689</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1652622329689</updated>
+    </task>
+    <task id="LOCAL-00050" summary="workspace files">
+      <created>1652622344238</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1652622344238</updated>
+    </task>
+    <task id="LOCAL-00051" summary="finished blackjack project - took more than it should have">
+      <created>1652622386266</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1652622386266</updated>
+    </task>
+    <task id="LOCAL-00052" summary="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this">
+      <created>1652622903366</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1652622903366</updated>
+    </task>
+    <task id="LOCAL-00053" summary="global and local scope of variables - I have to work more on this">
+      <created>1652719816045</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1652719816045</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,9 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="environment files" />
-    <MESSAGE value="nothing special... control update" />
-    <MESSAGE value="pizza price calculator exercise and true love compatibility exercise" />
     <MESSAGE value="Treasure island game" />
     <MESSAGE value="Randomisation, Lists and some exercise" />
     <MESSAGE value="Randomisation, Lists and some exercises" />
@@ -546,7 +554,6 @@
     <MESSAGE value="the most interesting project till now - Caesar Cipher - encrypt and decode messages" />
     <MESSAGE value="small update" />
     <MESSAGE value="Dictionaries and an exercise for this concept" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="nesting dictionaries and lists" />
     <MESSAGE value="exercise to understand nesting of dict and lists" />
     <MESSAGE value="Secret auction project" />
@@ -556,6 +563,10 @@
     <MESSAGE value="workspace updates" />
     <MESSAGE value="update blackjack game ... work in progress" />
     <MESSAGE value="scrap old try of the blackjack game and start from scratch" />
-    <option name="LAST_COMMIT_MESSAGE" value="scrap old try of the blackjack game and start from scratch" />
+    <MESSAGE value="workspace files" />
+    <MESSAGE value="finished blackjack project - took more than it should have" />
+    <MESSAGE value="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this" />
+    <MESSAGE value="global and local scope of variables - I have to work more on this" />
+    <option name="LAST_COMMIT_MESSAGE" value="global and local scope of variables - I have to work more on this" />
   </component>
 </project>
