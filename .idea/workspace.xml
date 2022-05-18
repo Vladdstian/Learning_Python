@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="delete test file">
-      <change afterPath="$PROJECT_DIR$/Day 12/Coffee machine/coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Coffee machine/coffee_type.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_machine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +53,11 @@
       <recent name="D:\Pycharm\Learning_Python\Day 5\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine" />
+      <recent name="D:\Pycharm\Learning_Python\Day 12\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 10\Projects\Number Guessing Game" />
       <recent name="D:\Pycharm\Learning_Python\Day 9\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 6\Projects\Hangman Game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
   </component>
   <component name="RunManager" selected="Python.coffee_machine">
@@ -184,34 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00012" summary="do you know how many days, weeks and months you have left until 90 years old?">
-      <created>1652001463007</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1652001463007</updated>
-    </task>
-    <task id="LOCAL-00013" summary="second project - Bill calculation">
-      <created>1652002495463</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1652002495463</updated>
-    </task>
-    <task id="LOCAL-00014" summary="pycharm files... I think so">
-      <created>1652021730626</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1652021730626</updated>
-    </task>
-    <task id="LOCAL-00015" summary="still learning... if statements and logical operators">
-      <created>1652100871204</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1652100871204</updated>
     </task>
     <task id="LOCAL-00016" summary="environment files">
       <created>1652100890343</created>
@@ -528,7 +500,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652797924266</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="day 12 - start with a great project - software for a Coffee machine">
+      <created>1652863045130</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1652863045130</updated>
+    </task>
+    <task id="LOCAL-00062" summary="workspace files">
+      <created>1652863058697</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1652863058697</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update location for coffee machine project">
+      <created>1652863156202</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1652863156202</updated>
+    </task>
+    <task id="LOCAL-00064" summary="workspace updates">
+      <created>1652863230499</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1652863230499</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PyPasswordGenerator project" />
-    <MESSAGE value="Indentation, while loops and Reeborg's maze" />
     <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
     <MESSAGE value="functions with inputs, prime number checker and other exercises" />
     <MESSAGE value="the most interesting project till now - Caesar Cipher - encrypt and decode messages" />
@@ -556,18 +554,20 @@
     <MESSAGE value="calculator project" />
     <MESSAGE value="small updates to calculator program" />
     <MESSAGE value="blackjack project start" />
-    <MESSAGE value="workspace updates" />
     <MESSAGE value="update blackjack game ... work in progress" />
     <MESSAGE value="scrap old try of the blackjack game and start from scratch" />
     <MESSAGE value="finished blackjack project - took more than it should have" />
     <MESSAGE value="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this" />
     <MESSAGE value="global and local scope of variables - I have to work more on this" />
     <MESSAGE value="Number guessing game" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="day 11 Debugging" />
     <MESSAGE value="Higher Lower project" />
     <MESSAGE value="workspace files updates" />
     <MESSAGE value="delete test file" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete test file" />
+    <MESSAGE value="day 12 - start with a great project - software for a Coffee machine" />
+    <MESSAGE value="workspace files" />
+    <MESSAGE value="update location for coffee machine project" />
+    <MESSAGE value="workspace updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace updates" />
   </component>
 </project>
