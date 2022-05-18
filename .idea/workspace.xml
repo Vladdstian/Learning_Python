@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 11/Basics/exercise1_day11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Basics/exercise2_day11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Basics/exercise3_day11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Basics/main_day11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/higher_lower.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="delete test file">
+      <change afterPath="$PROJECT_DIR$/Day 12/Coffee machine/coffee_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 12/Coffee machine/coffee_type.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +60,28 @@
       <recent name="D:\Pycharm\Learning_Python\Day 4\Projects\Rock_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.higher_lower">
+  <component name="RunManager" selected="Python.coffee_machine">
+    <configuration name="coffee_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 12/Coffee machine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 12/Coffee machine/coffee_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercise1_day11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,34 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 11/Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 11/Basics/main_day11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coffee_machine" />
         <item itemvalue="Python.higher_lower" />
         <item itemvalue="Python.exercise3_day11" />
         <item itemvalue="Python.exercise2_day11" />
         <item itemvalue="Python.exercise1_day11" />
-        <item itemvalue="Python.main_day11" />
       </list>
     </recent_temporary>
   </component>
@@ -189,41 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00007" summary="second day, first project! Yay!">
-      <created>1651994545167</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1651994545167</updated>
-    </task>
-    <task id="LOCAL-00008" summary="...going further with the information today">
-      <created>1651997186574</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1651997186574</updated>
-    </task>
-    <task id="LOCAL-00009" summary="more exercises to come... or projects">
-      <created>1651998016887</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1651998016887</updated>
-    </task>
-    <task id="LOCAL-00010" summary="exercises and more information :)">
-      <created>1651999782504</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1651999782504</updated>
-    </task>
-    <task id="LOCAL-00011" summary="still pycharm files :(">
-      <created>1651999800031</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1651999800031</updated>
     </task>
     <task id="LOCAL-00012" summary="do you know how many days, weeks and months you have left until 90 years old?">
       <created>1652001463007</created>
@@ -533,7 +493,42 @@
       <option name="project" value="LOCAL" />
       <updated>1652719980823</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="day 11 Debugging">
+      <created>1652796775703</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1652796775703</updated>
+    </task>
+    <task id="LOCAL-00057" summary="day 11 Debugging">
+      <created>1652796787679</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1652796787679</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Higher Lower project">
+      <created>1652796814020</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1652796814020</updated>
+    </task>
+    <task id="LOCAL-00059" summary="workspace files updates">
+      <created>1652796827054</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1652796827054</updated>
+    </task>
+    <task id="LOCAL-00060" summary="delete test file">
+      <created>1652797924266</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1652797924266</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,10 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Randomisation, Lists and some exercise" />
-    <MESSAGE value="Randomisation, Lists and some exercises" />
-    <MESSAGE value="Rock, Paper, Scissors game" />
-    <MESSAGE value="Loops and functions" />
     <MESSAGE value="PyPasswordGenerator project" />
     <MESSAGE value="Indentation, while loops and Reeborg's maze" />
     <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
@@ -573,6 +564,10 @@
     <MESSAGE value="global and local scope of variables - I have to work more on this" />
     <MESSAGE value="Number guessing game" />
     <MESSAGE value="workspace files" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
+    <MESSAGE value="day 11 Debugging" />
+    <MESSAGE value="Higher Lower project" />
+    <MESSAGE value="workspace files updates" />
+    <MESSAGE value="delete test file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete test file" />
   </component>
 </project>
