@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace updates">
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics">
+      <change afterPath="$PROJECT_DIR$/Day 12/Intermediate/main_day12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 12/Intermediate/oop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_machine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="D:\Pycharm\Learning_Python\Day 6\Projects\Hangman Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.coffee_machine">
+  <component name="RunManager" selected="Python.main_day12">
     <configuration name="coffee_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,27 +75,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine\coffee_machine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise1_day11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 11/Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 11/Basics/exercise1_day11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_day12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 12/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 12/Intermediate/main_day12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_day12" />
         <item itemvalue="Python.coffee_machine" />
         <item itemvalue="Python.higher_lower" />
         <item itemvalue="Python.exercise3_day11" />
         <item itemvalue="Python.exercise2_day11" />
-        <item itemvalue="Python.exercise1_day11" />
       </list>
     </recent_temporary>
   </component>
@@ -184,20 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00016" summary="environment files">
-      <created>1652100890343</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1652100890343</updated>
-    </task>
-    <task id="LOCAL-00017" summary="nothing special... control update">
-      <created>1652113145982</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1652113145982</updated>
     </task>
     <task id="LOCAL-00018" summary="pizza price calculator exercise and true love compatibility exercise">
       <created>1652115839055</created>
@@ -528,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652863230499</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="coffee machine updates - TODO example">
+      <created>1652864389996</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1652864389996</updated>
+    </task>
+    <task id="LOCAL-00066" summary="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics">
+      <created>1652865561649</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1652865561650</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hangman game and some documentation on how I got to code the game" />
-    <MESSAGE value="functions with inputs, prime number checker and other exercises" />
     <MESSAGE value="the most interesting project till now - Caesar Cipher - encrypt and decode messages" />
     <MESSAGE value="small update" />
     <MESSAGE value="Dictionaries and an exercise for this concept" />
@@ -568,6 +567,8 @@
     <MESSAGE value="workspace files" />
     <MESSAGE value="update location for coffee machine project" />
     <MESSAGE value="workspace updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace updates" />
+    <MESSAGE value="coffee machine updates - TODO example" />
+    <MESSAGE value="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics" />
+    <option name="LAST_COMMIT_MESSAGE" value="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics" />
   </component>
 </project>
