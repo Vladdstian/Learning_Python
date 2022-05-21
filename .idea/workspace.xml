@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 13/Intermediate/main_day13.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="finally finished with this quiz game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Projects/Quiz game/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Projects/Quiz game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,30 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 11/Basics&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 15",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 15" />
       <recent name="D:\Pycharm\Learning_Python\Day 11\Basics" />
       <recent name="D:\Pycharm\Learning_Python\Day 9" />
       <recent name="D:\Pycharm\Learning_Python\Day 7\Basics" />
       <recent name="D:\Pycharm\Learning_Python\Day 5\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 10\Projects\Number Guessing Game" />
       <recent name="D:\Pycharm\Learning_Python\Day 9\Projects" />
-      <recent name="D:\Pycharm\Learning_Python\Day 6\Projects\Hangman Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_day13">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="coffee_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="higher_lower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 11/Projects/Higher Lower" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15/Projects/Quiz game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 11/Projects/Higher Lower/higher_lower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15/Projects/Quiz game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main_day13" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main_day12" />
         <item itemvalue="Python.coffee_machine" />
-        <item itemvalue="Python.higher_lower" />
       </list>
     </recent_temporary>
   </component>
@@ -184,27 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Randomisation, Lists and some exercises">
-      <created>1652192075987</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1652192075987</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Rock, Paper, Scissors game">
-      <created>1652192103839</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1652192103839</updated>
-    </task>
-    <task id="LOCAL-00024" summary="workspace files">
-      <created>1652192116290</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1652192116290</updated>
     </task>
     <task id="LOCAL-00025" summary="Loops and functions">
       <created>1652203183923</created>
@@ -528,7 +509,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652891871543</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="more object-oriented programming topics">
+      <created>1652972268300</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1652972268300</updated>
+    </task>
+    <task id="LOCAL-00072" summary="workspace files">
+      <created>1652973850633</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1652973850633</updated>
+    </task>
+    <task id="LOCAL-00073" summary="finally finished with this quiz game">
+      <created>1653125240850</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1653125240851</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dictionaries and an exercise for this concept" />
-    <MESSAGE value="nesting dictionaries and lists" />
     <MESSAGE value="exercise to understand nesting of dict and lists" />
     <MESSAGE value="Secret auction project" />
     <MESSAGE value="calculator project" />
@@ -567,7 +567,9 @@
     <MESSAGE value="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics" />
     <MESSAGE value="Object-Oriented Programming introduction" />
     <MESSAGE value="coffee machine project with OOP" />
+    <MESSAGE value="more object-oriented programming topics" />
     <MESSAGE value="workspace files" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
+    <MESSAGE value="finally finished with this quiz game" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally finished with this quiz game" />
   </component>
 </project>
