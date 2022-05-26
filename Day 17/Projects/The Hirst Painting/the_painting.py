@@ -46,6 +46,7 @@ bob.speed("fastest")
 bob.penup()
 bob.setposition(x=-350, y=-350)
 draw_painting(10, 10, bob, color_list)
+bob.hideturtle()
 
 screen = t.Screen()
 screen.exitonclick()
