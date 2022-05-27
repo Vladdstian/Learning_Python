@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="turtle and graphical user interface">
-      <change afterPath="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting/swiss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting/the_painting.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="small projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 17/Projects/The Hirst Painting",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 17/Projects/The Hirst Painting&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Pycharm\Learning_Python\Day 17\Projects\The Hirst Painting" />
@@ -55,15 +53,15 @@
       <recent name="D:\Pycharm\Learning_Python\Day 7\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 18\Projects\Etch-a-Sketch" />
       <recent name="D:\Pycharm\Learning_Python" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 10\Projects\Number Guessing Game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 9\Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.the_painting">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.turtle_race">
+    <configuration name="etch-a-sketch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15/Projects/Quiz game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18/Projects/Etch-a-Sketch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15/Projects/Quiz game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Projects/Etch-a-Sketch/etch-a-sketch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_day18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17/Intermediate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Intermediate/main_day17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Intermediate/main_day18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,27 +124,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17/Intermediate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Intermediate/turtle_exercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="turtle_exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,13 +145,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="turtle_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18/Projects/Turtle Race" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Projects/Turtle Race/turtle_race.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.turtle_race" />
+        <item itemvalue="Python.etch-a-sketch" />
+        <item itemvalue="Python.main_day18" />
         <item itemvalue="Python.the_painting" />
         <item itemvalue="Python.turtle_exercise2" />
-        <item itemvalue="Python.turtle_exercise" />
-        <item itemvalue="Python.main_day17" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,41 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00029" summary="workspace files">
-      <created>1652288838407</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1652288838407</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Hangman game and some documentation on how I got to code the game">
-      <created>1652367219851</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1652367219851</updated>
-    </task>
-    <task id="LOCAL-00031" summary="workspace files">
-      <created>1652367231248</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1652367231248</updated>
-    </task>
-    <task id="LOCAL-00032" summary="functions with inputs, prime number checker and other exercises">
-      <created>1652375917688</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1652375917688</updated>
-    </task>
-    <task id="LOCAL-00033" summary="workspace files">
-      <created>1652375931414</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1652375931414</updated>
     </task>
     <task id="LOCAL-00034" summary="workspace files">
       <created>1652377405377</created>
@@ -530,7 +493,42 @@
       <option name="project" value="LOCAL" />
       <updated>1653561616339</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="hirst painting project using python turtle">
+      <created>1653572808582</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1653572808582</updated>
+    </task>
+    <task id="LOCAL-00079" summary="workspace files">
+      <created>1653572823495</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1653572823495</updated>
+    </task>
+    <task id="LOCAL-00080" summary="update">
+      <created>1653580713179</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1653580713179</updated>
+    </task>
+    <task id="LOCAL-00081" summary="instances, state and higher order functions">
+      <created>1653642992601</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1653642992601</updated>
+    </task>
+    <task id="LOCAL-00082" summary="small projects">
+      <created>1653643009754</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1653643009754</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,10 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="small updates to calculator program" />
-    <MESSAGE value="blackjack project start" />
-    <MESSAGE value="update blackjack game ... work in progress" />
-    <MESSAGE value="scrap old try of the blackjack game and start from scratch" />
     <MESSAGE value="finished blackjack project - took more than it should have" />
     <MESSAGE value="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this" />
     <MESSAGE value="global and local scope of variables - I have to work more on this" />
@@ -567,9 +561,13 @@
     <MESSAGE value="more object-oriented programming topics" />
     <MESSAGE value="finally finished with this quiz game" />
     <MESSAGE value="update files with database pulled from opentdb.com" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="day 16 updates" />
     <MESSAGE value="turtle and graphical user interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="turtle and graphical user interface" />
+    <MESSAGE value="hirst painting project using python turtle" />
+    <MESSAGE value="workspace files" />
+    <MESSAGE value="update" />
+    <MESSAGE value="instances, state and higher order functions" />
+    <MESSAGE value="small projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="small projects" />
   </component>
 </project>
