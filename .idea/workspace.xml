@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="small projects">
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
+      <change afterPath="$PROJECT_DIR$/Day 19/Snake Game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,14 @@
       <recent name="D:\Pycharm\Learning_Python\Day 7\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 19" />
       <recent name="D:\Pycharm\Learning_Python\Day 18\Projects\Etch-a-Sketch" />
       <recent name="D:\Pycharm\Learning_Python" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects" />
-      <recent name="D:\Pycharm\Learning_Python\Day 10\Projects\Number Guessing Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.turtle_race">
+  <component name="RunManager" selected="Python.main">
     <configuration name="etch-a-sketch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +75,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Projects/Etch-a-Sketch/etch-a-sketch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 19/Snake Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 19/Snake Game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,27 +146,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle_exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17/Intermediate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Intermediate/turtle_exercise2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="turtle_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.turtle_race" />
         <item itemvalue="Python.etch-a-sketch" />
         <item itemvalue="Python.main_day18" />
         <item itemvalue="Python.the_painting" />
-        <item itemvalue="Python.turtle_exercise2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00034" summary="workspace files">
-      <created>1652377405377</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1652377405377</updated>
     </task>
     <task id="LOCAL-00035" summary="the most interesting project till now - Caesar Cipher - encrypt and decode messages">
       <created>1652378287754</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653643009754</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="workspace files">
+      <created>1653657538735</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1653657538735</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,10 +565,10 @@
     <MESSAGE value="day 16 updates" />
     <MESSAGE value="turtle and graphical user interface" />
     <MESSAGE value="hirst painting project using python turtle" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="update" />
     <MESSAGE value="instances, state and higher order functions" />
     <MESSAGE value="small projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="small projects" />
+    <MESSAGE value="workspace files" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
 </project>
