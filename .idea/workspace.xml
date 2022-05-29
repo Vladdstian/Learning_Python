@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 19/Snake Game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 19/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 19/Snake Game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,20 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00035" summary="the most interesting project till now - Caesar Cipher - encrypt and decode messages">
-      <created>1652378287754</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1652378287754</updated>
-    </task>
-    <task id="LOCAL-00036" summary="workspace files">
-      <created>1652378299107</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1652378299107</updated>
     </task>
     <task id="LOCAL-00037" summary="small update">
       <created>1652378433994</created>
@@ -529,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653657538735</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="started work on a bigger project - one wee all loved as a child - snake game">
+      <created>1653737579534</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1653737579534</updated>
+    </task>
+    <task id="LOCAL-00085" summary="workspace files">
+      <created>1653737601079</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1653737601079</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished blackjack project - took more than it should have" />
     <MESSAGE value="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this" />
     <MESSAGE value="global and local scope of variables - I have to work more on this" />
     <MESSAGE value="Number guessing game" />
@@ -568,6 +567,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="instances, state and higher order functions" />
     <MESSAGE value="small projects" />
+    <MESSAGE value="started work on a bigger project - one wee all loved as a child - snake game" />
     <MESSAGE value="workspace files" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
