@@ -7,28 +7,24 @@ screen.title("My Snake Game")
 
 
 def create_snake():
-    snake = []
-    position = []
+    initial_snake = []
     for _ in range(3):
+        segment = []
         bob = Turtle(shape="square")
         bob.color("white")
-        if len(position) == 0:
-            position.append(bob.xcor())
-            position.append(bob.ycor())
-            position[0] = position[0] + 20
-        else:
-            bob.setposition(x=position[0], y=position[1])
-            position[0] = position[0] + 20
-        snake.append(bob)
-    return snake
+        segment_id = {"id": bob}
+        seg_position = {"position": [0, 0]}
+        segment.append(seg_position)
+        segment.append(segment_id)
+        initial_snake.append(segment)
+
+
+    return initial_snake
 
 
 snake = create_snake()
 screen.listen()
 game_status = True
-
-
-def move(snake_parts):
 
 
 screen.exitonclick()
