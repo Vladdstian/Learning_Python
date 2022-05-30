@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="starting to work on snake game from scratch">
-      <change afterPath="$PROJECT_DIR$/Day 21/Snake Game/snake.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="implement inheritance in snake game">
+      <change afterPath="$PROJECT_DIR$/Day 21/Snake Game/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game/main.py" afterDir="false" />
     </list>
@@ -126,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_day21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18/Intermediate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 21/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Intermediate/main_day18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 21/Intermediate/main_day21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,9 +172,9 @@
       <list>
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_day21" />
         <item itemvalue="Python.turtle_race" />
         <item itemvalue="Python.etch-a-sketch" />
-        <item itemvalue="Python.main_day18" />
       </list>
     </recent_temporary>
   </component>
@@ -186,55 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00041" summary="exercise to understand nesting of dict and lists">
-      <created>1652436708865</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1652436708865</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Secret auction project">
-      <created>1652439426631</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1652439426631</updated>
-    </task>
-    <task id="LOCAL-00043" summary="calculator project">
-      <created>1652543286109</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1652543286109</updated>
-    </task>
-    <task id="LOCAL-00044" summary="small updates to calculator program">
-      <created>1652543689425</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1652543689425</updated>
-    </task>
-    <task id="LOCAL-00045" summary="blackjack project start">
-      <created>1652547789615</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1652547789615</updated>
-    </task>
-    <task id="LOCAL-00046" summary="workspace updates">
-      <created>1652547804953</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1652547804953</updated>
-    </task>
-    <task id="LOCAL-00047" summary="update blackjack game ... work in progress">
-      <created>1652599145624</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1652599145624</updated>
     </task>
     <task id="LOCAL-00048" summary="scrap old try of the blackjack game and start from scratch">
       <created>1652617866224</created>
@@ -530,7 +481,56 @@
       <option name="project" value="LOCAL" />
       <updated>1653906956413</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="split the code to make it more clear and understandable and to reflect better the oop">
+      <created>1653909888311</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1653909888311</updated>
+    </task>
+    <task id="LOCAL-00091" summary="workspace updates">
+      <created>1653909899034</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1653909899034</updated>
+    </task>
+    <task id="LOCAL-00092" summary="updates">
+      <created>1653909973170</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1653909973170</updated>
+    </task>
+    <task id="LOCAL-00093" summary="snake game movement updates">
+      <created>1653913004982</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1653913004982</updated>
+    </task>
+    <task id="LOCAL-00094" summary="snake game movement updates">
+      <created>1653913594099</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1653913594099</updated>
+    </task>
+    <task id="LOCAL-00095" summary="learning about Inheritance">
+      <created>1653915781947</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1653915781947</updated>
+    </task>
+    <task id="LOCAL-00096" summary="implement inheritance in snake game">
+      <created>1653932631714</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1653932631714</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,13 +545,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 11 Debugging" />
-    <MESSAGE value="Higher Lower project" />
-    <MESSAGE value="workspace files updates" />
-    <MESSAGE value="delete test file" />
-    <MESSAGE value="day 12 - start with a great project - software for a Coffee machine" />
     <MESSAGE value="update location for coffee machine project" />
-    <MESSAGE value="workspace updates" />
     <MESSAGE value="coffee machine updates - TODO example" />
     <MESSAGE value="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics" />
     <MESSAGE value="Object-Oriented Programming introduction" />
@@ -570,6 +564,12 @@
     <MESSAGE value="snake game reloaded :)" />
     <MESSAGE value="workspace files" />
     <MESSAGE value="starting to work on snake game from scratch" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting to work on snake game from scratch" />
+    <MESSAGE value="split the code to make it more clear and understandable and to reflect better the oop" />
+    <MESSAGE value="workspace updates" />
+    <MESSAGE value="updates" />
+    <MESSAGE value="snake game movement updates" />
+    <MESSAGE value="learning about Inheritance" />
+    <MESSAGE value="implement inheritance in snake game" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement inheritance in snake game" />
   </component>
 </project>
