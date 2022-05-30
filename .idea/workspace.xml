@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="starting to work on snake game from scratch">
+      <change afterPath="$PROJECT_DIR$/Day 21/Snake Game/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 19/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 19/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +55,14 @@
       <recent name="D:\Pycharm\Learning_Python\Day 7\Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 20\Snake Game" />
       <recent name="D:\Pycharm\Learning_Python\Day 19" />
       <recent name="D:\Pycharm\Learning_Python\Day 18\Projects\Etch-a-Sketch" />
       <recent name="D:\Pycharm\Learning_Python" />
       <recent name="D:\Pycharm\Learning_Python\Day 12\Projects\Coffee Machine" />
-      <recent name="D:\Pycharm\Learning_Python\Day 12\Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="etch-a-sketch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/Projects/Etch-a-Sketch/etch-a-sketch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 21/Snake Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 21/Snake Game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,27 +147,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="the_painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting/the_painting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="turtle_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.turtle_race" />
         <item itemvalue="Python.etch-a-sketch" />
         <item itemvalue="Python.main_day18" />
-        <item itemvalue="Python.the_painting" />
       </list>
     </recent_temporary>
   </component>
@@ -185,34 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00037" summary="small update">
-      <created>1652378433994</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1652378433994</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Dictionaries and an exercise for this concept">
-      <created>1652434840779</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1652434840779</updated>
-    </task>
-    <task id="LOCAL-00039" summary="workspace files">
-      <created>1652434878212</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1652434878212</updated>
-    </task>
-    <task id="LOCAL-00040" summary="nesting dictionaries and lists">
-      <created>1652436353271</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1652436353271</updated>
     </task>
     <task id="LOCAL-00041" summary="exercise to understand nesting of dict and lists">
       <created>1652436708865</created>
@@ -529,7 +502,35 @@
       <option name="project" value="LOCAL" />
       <updated>1653737601079</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="yesterday unsaved files">
+      <created>1653831545178</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1653831545178</updated>
+    </task>
+    <task id="LOCAL-00087" summary="snake game reloaded :)">
+      <created>1653831561659</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1653831561659</updated>
+    </task>
+    <task id="LOCAL-00088" summary="workspace files">
+      <created>1653831571875</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1653831571875</updated>
+    </task>
+    <task id="LOCAL-00089" summary="starting to work on snake game from scratch">
+      <created>1653906956412</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1653906956413</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,9 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished blackjack project - took more than it should have - forgot I had to save at day 9 and did a mess of some files. I have to pay more attention to this" />
-    <MESSAGE value="global and local scope of variables - I have to work more on this" />
-    <MESSAGE value="Number guessing game" />
     <MESSAGE value="day 11 Debugging" />
     <MESSAGE value="Higher Lower project" />
     <MESSAGE value="workspace files updates" />
@@ -568,7 +566,10 @@
     <MESSAGE value="instances, state and higher order functions" />
     <MESSAGE value="small projects" />
     <MESSAGE value="started work on a bigger project - one wee all loved as a child - snake game" />
+    <MESSAGE value="yesterday unsaved files" />
+    <MESSAGE value="snake game reloaded :)" />
     <MESSAGE value="workspace files" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
+    <MESSAGE value="starting to work on snake game from scratch" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting to work on snake game from scratch" />
   </component>
 </project>
