@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="implement inheritance in snake game">
-      <change afterPath="$PROJECT_DIR$/Day 21/Snake Game/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,20 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00048" summary="scrap old try of the blackjack game and start from scratch">
-      <created>1652617866224</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1652617866224</updated>
-    </task>
-    <task id="LOCAL-00049" summary="scrap old try of the blackjack game and start from scratch">
-      <created>1652622329689</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1652622329689</updated>
     </task>
     <task id="LOCAL-00050" summary="workspace files">
       <created>1652622344238</created>
@@ -530,7 +512,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653932631714</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="almost finished with the Snake Game - still have to implement collision and a game over scene">
+      <created>1653934887407</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934887407</updated>
+    </task>
+    <task id="LOCAL-00098" summary="workspace files">
+      <created>1653934898677</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934898677</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update location for coffee machine project" />
     <MESSAGE value="coffee machine updates - TODO example" />
     <MESSAGE value="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics" />
     <MESSAGE value="Object-Oriented Programming introduction" />
@@ -562,7 +557,6 @@
     <MESSAGE value="started work on a bigger project - one wee all loved as a child - snake game" />
     <MESSAGE value="yesterday unsaved files" />
     <MESSAGE value="snake game reloaded :)" />
-    <MESSAGE value="workspace files" />
     <MESSAGE value="starting to work on snake game from scratch" />
     <MESSAGE value="split the code to make it more clear and understandable and to reflect better the oop" />
     <MESSAGE value="workspace updates" />
@@ -570,6 +564,8 @@
     <MESSAGE value="snake game movement updates" />
     <MESSAGE value="learning about Inheritance" />
     <MESSAGE value="implement inheritance in snake game" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement inheritance in snake game" />
+    <MESSAGE value="almost finished with the Snake Game - still have to implement collision and a game over scene" />
+    <MESSAGE value="workspace files" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
 </project>
