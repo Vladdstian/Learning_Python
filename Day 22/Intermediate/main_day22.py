@@ -7,3 +7,4 @@ print(piano_keys[2:])  # slicing from pos 2 to the end
 print(piano_keys[:5])  # slicing from the beginning to the 5th position
 print(piano_keys[1:5:2])  # 2 is the step on which the list is sliced -
 # piano_keys will be sliced from pos 1 to 5, and it will return every char each 2 pos
+print(piano_keys[::-1])  # -1 reverses the list -> used in python to return an inverse string or as a trick
