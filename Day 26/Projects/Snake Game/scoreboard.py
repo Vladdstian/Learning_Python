@@ -1,14 +1,14 @@
 from turtle import Turtle
 
 POSITION = (0, 270)
-
+FILE_LOCATION = "./data.txt"
 
 class Score(Turtle):
 
     def __init__(self):
         super().__init__()
         self.score = 0
-        with open("data.txt", mode='r') as data:
+        with open(FILE_LOCATION, mode='r') as data:
             self.high_score = int(data.read())
         self.color("white")
         self.hideturtle()
@@ -23,7 +23,7 @@ class Score(Turtle):
     def reset(self):
         if self.score > self.high_score:
             self.high_score = self.score
-            with open("data.txt", mode='w') as data:
+            with open(FILE_LOCATION, mode='w') as data:
                 data.write(str(self.high_score))
         self.score = 0
         self.update_score()
