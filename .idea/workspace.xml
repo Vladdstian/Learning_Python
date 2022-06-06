@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="workspace files">
-      <change afterPath="$PROJECT_DIR$/Day 23/Projects/Pong game/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/Projects/Pong game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/Projects/Pong game/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/Projects/Pong game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Projects/Snake Game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Projects/Snake Game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Projects/Snake Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Projects/Snake Game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Projects/Snake Game/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +46,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 23/Projects/Pong game",
+    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 26/Projects",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 26\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 23\Projects\Pong game" />
       <recent name="D:\Pycharm\Learning_Python\Day 23" />
       <recent name="D:\Pycharm\Learning_Python\Day 22" />
       <recent name="D:\Pycharm\Learning_Python\Day 17\Projects\The Hirst Painting" />
-      <recent name="D:\Pycharm\Learning_Python\Day 15" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Pycharm\Learning_Python\Day 22\Projects" />
@@ -64,7 +66,7 @@
       <recent name="D:\Pycharm\Learning_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (5)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 21/Snake Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25/Turtle Crossing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 21/Snake Game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25/Turtle Crossing/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,32 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 22/Snake Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Projects/Snake Game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 22/Snake Game/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 22/Projects/Snake Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 22/Projects/Snake Game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Projects/Snake Game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,13 +151,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Projects/Turtle Crossing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Projects/Turtle Crossing/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,20 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00056" summary="day 11 Debugging">
-      <created>1652796775703</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1652796775703</updated>
-    </task>
-    <task id="LOCAL-00057" summary="day 11 Debugging">
-      <created>1652796787679</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1652796787679</updated>
     </task>
     <task id="LOCAL-00058" summary="Higher Lower project">
       <created>1652796814020</created>
@@ -532,7 +520,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654016569147</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="finished Pong game">
+      <created>1654089613665</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1654089613665</updated>
+    </task>
+    <task id="LOCAL-00106" summary="workspace files">
+      <created>1654089624310</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1654089624310</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="coffee machine project with OOP" />
     <MESSAGE value="more object-oriented programming topics" />
     <MESSAGE value="finally finished with this quiz game" />
     <MESSAGE value="update files with database pulled from opentdb.com" />
@@ -571,6 +572,7 @@
     <MESSAGE value="finished snake game" />
     <MESSAGE value="python list slicing learning" />
     <MESSAGE value="pong game - the beginning" />
+    <MESSAGE value="finished Pong game" />
     <MESSAGE value="workspace files" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace files" />
   </component>
