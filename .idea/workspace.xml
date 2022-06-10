@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="exercise for working with files and file directories">
-      <change afterPath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2/weather_data.csv" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="files reorder">
+      <change afterPath="$PROJECT_DIR$/Day 29/Projects/US States game/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29/Projects/US States game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,27 +42,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 26/Intermediate/Exercise 1",
+    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 29/Projects/US States game",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
+      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate" />
       <recent name="D:\Pycharm\Learning_Python\Day 26\Intermediate\Exercise 1" />
       <recent name="D:\Pycharm\Learning_Python\Day 26\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 23\Projects\Pong game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 23" />
-      <recent name="D:\Pycharm\Learning_Python\Day 22" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
+      <recent name="D:\Pycharm\Learning_Python\Day 28\Project" />
+      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 2" />
+      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 1" />
       <recent name="D:\Pycharm\Learning_Python\Day 26\Intermediate\Exercise 2" />
-      <recent name="D:\Pycharm\Learning_Python\Day 26\Intermediate\Exercise 1" />
-      <recent name="D:\Pycharm\Learning_Python\Day 22\Projects" />
-      <recent name="D:\Pycharm\Learning_Python\Day 20\Snake Game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 19" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,32 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25/Turtle Crossing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Projects/US States game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25/Turtle Crossing/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Projects/Snake Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Projects/Snake Game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Projects/US States game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +134,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Projects/Turtle Crossing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 28/Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Projects/Turtle Crossing/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 28/Project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_day27_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 1\main_day27_pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_day27_pandas" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,69 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00062" summary="workspace files">
-      <created>1652863058697</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1652863058697</updated>
-    </task>
-    <task id="LOCAL-00063" summary="update location for coffee machine project">
-      <created>1652863156202</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1652863156202</updated>
-    </task>
-    <task id="LOCAL-00064" summary="workspace updates">
-      <created>1652863230499</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1652863230499</updated>
-    </task>
-    <task id="LOCAL-00065" summary="coffee machine updates - TODO example">
-      <created>1652864389996</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1652864389996</updated>
-    </task>
-    <task id="LOCAL-00066" summary="chenged folder names from Basics to Begginner or Intermediate to reflect better the level of covered topics">
-      <created>1652865561649</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1652865561650</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Object-Oriented Programming introduction">
-      <created>1652879367579</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1652879367579</updated>
-    </task>
-    <task id="LOCAL-00068" summary="workspace files">
-      <created>1652879409125</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1652879409125</updated>
-    </task>
-    <task id="LOCAL-00069" summary="coffee machine project with OOP">
-      <created>1652891857618</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1652891857618</updated>
-    </task>
-    <task id="LOCAL-00070" summary="workspace files">
-      <created>1652891871543</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1652891871543</updated>
     </task>
     <task id="LOCAL-00071" summary="more object-oriented programming topics">
       <created>1652972268300</created>
@@ -530,8 +467,74 @@
       <option name="project" value="LOCAL" />
       <updated>1654529406308</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="csv file formatting">
+      <created>1654534541714</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1654534541714</updated>
+    </task>
+    <task id="LOCAL-00112" summary="csv file formatting">
+      <created>1654534547106</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1654534547106</updated>
+    </task>
+    <task id="LOCAL-00113" summary="pandas training continuation">
+      <created>1654610445286</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1654610445287</updated>
+    </task>
+    <task id="LOCAL-00114" summary="pandas training continuation">
+      <created>1654610532366</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1654610532366</updated>
+    </task>
+    <task id="LOCAL-00115" summary="pandas training continuation">
+      <created>1654612524381</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1654612524381</updated>
+    </task>
+    <task id="LOCAL-00116" summary="reorganise files">
+      <created>1654612765758</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1654612765758</updated>
+    </task>
+    <task id="LOCAL-00117" summary="yesterday unsaved files">
+      <created>1654709478885</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1654709478885</updated>
+    </task>
+    <task id="LOCAL-00118" summary="yesterday unsaved files">
+      <created>1654709488232</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1654709488232</updated>
+    </task>
+    <task id="LOCAL-00119" summary="files reorder">
+      <created>1654872565766</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1654872565767</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -545,14 +548,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 16 updates" />
-    <MESSAGE value="turtle and graphical user interface" />
-    <MESSAGE value="hirst painting project using python turtle" />
-    <MESSAGE value="update" />
     <MESSAGE value="instances, state and higher order functions" />
     <MESSAGE value="small projects" />
     <MESSAGE value="started work on a bigger project - one wee all loved as a child - snake game" />
-    <MESSAGE value="yesterday unsaved files" />
     <MESSAGE value="snake game reloaded :)" />
     <MESSAGE value="starting to work on snake game from scratch" />
     <MESSAGE value="split the code to make it more clear and understandable and to reflect better the oop" />
@@ -570,6 +568,11 @@
     <MESSAGE value="workspace files" />
     <MESSAGE value="improved file reading location" />
     <MESSAGE value="exercise for working with files and file directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise for working with files and file directories" />
+    <MESSAGE value="csv file formatting" />
+    <MESSAGE value="pandas training continuation" />
+    <MESSAGE value="reorganise files" />
+    <MESSAGE value="yesterday unsaved files" />
+    <MESSAGE value="files reorder" />
+    <option name="LAST_COMMIT_MESSAGE" value="files reorder" />
   </component>
 </project>
