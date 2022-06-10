@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="files reorder">
-      <change afterPath="$PROJECT_DIR$/Day 29/Projects/US States game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 29/Projects/US States game/main.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="first attempt at nato name spell">
+      <change afterPath="$PROJECT_DIR$/Day 29/Intermediate/main_day29.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +54,14 @@
       <recent name="D:\Pycharm\Learning_Python\Day 23\Projects\Pong game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\NATO name spell" />
+      <recent name="D:\Pycharm\Learning_Python\Day 29\Intermediate" />
       <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
       <recent name="D:\Pycharm\Learning_Python\Day 28\Project" />
       <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 2" />
-      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 1" />
-      <recent name="D:\Pycharm\Learning_Python\Day 26\Intermediate\Exercise 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main_day29">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,32 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Projects/NATO name spell" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Projects/NATO name spell/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_day29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Intermediate/main_day29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_day29" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main_day27_pandas" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,27 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00071" summary="more object-oriented programming topics">
-      <created>1652972268300</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1652972268300</updated>
-    </task>
-    <task id="LOCAL-00072" summary="workspace files">
-      <created>1652973850633</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1652973850633</updated>
-    </task>
-    <task id="LOCAL-00073" summary="finally finished with this quiz game">
-      <created>1653125240850</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1653125240851</updated>
     </task>
     <task id="LOCAL-00074" summary="update files with database pulled from opentdb.com">
       <created>1653125678135</created>
@@ -530,7 +508,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654872565767</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="us state guessing game">
+      <created>1654878076262</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1654878076262</updated>
+    </task>
+    <task id="LOCAL-00121" summary="small update">
+      <created>1654878199699</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1654878199699</updated>
+    </task>
+    <task id="LOCAL-00122" summary="first attempt at nato name spell">
+      <created>1654880308319</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1654880308319</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -548,9 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="instances, state and higher order functions" />
-    <MESSAGE value="small projects" />
-    <MESSAGE value="started work on a bigger project - one wee all loved as a child - snake game" />
     <MESSAGE value="snake game reloaded :)" />
     <MESSAGE value="starting to work on snake game from scratch" />
     <MESSAGE value="split the code to make it more clear and understandable and to reflect better the oop" />
@@ -573,6 +569,9 @@
     <MESSAGE value="reorganise files" />
     <MESSAGE value="yesterday unsaved files" />
     <MESSAGE value="files reorder" />
-    <option name="LAST_COMMIT_MESSAGE" value="files reorder" />
+    <MESSAGE value="us state guessing game" />
+    <MESSAGE value="small update" />
+    <MESSAGE value="first attempt at nato name spell" />
+    <option name="LAST_COMMIT_MESSAGE" value="first attempt at nato name spell" />
   </component>
 </project>
