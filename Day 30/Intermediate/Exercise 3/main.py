@@ -24,7 +24,7 @@ with open(list_2, "r") as data_2:
 
 
 # 2nd try
-result = [int(n.strip("\n")) for n in list_1 if n in list_2]
+result = [int(n) for n in list_1 if n in list_2]
 
 print(result)
 
