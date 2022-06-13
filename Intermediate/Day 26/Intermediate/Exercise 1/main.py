@@ -6,8 +6,8 @@
 # Hint1: This method will help you: https://www.w3schools.com/python/ref_file_readlines.asp
 # Hint2: This method will also help you: https://www.w3schools.com/python/ref_string_replace.asp
 # Hint3: THis method will help you: https://www.w3schools.com/python/ref_string_strip.asp
-name_file_path = "./Input/Names/invited_names.txt"
-letter_file_path = "./Input/Letters/starting_letter.txt"
+name_file_path = "Input/Names/invited_names.txt"
+letter_file_path = "Input/Letters/starting_letter.txt"
 
 with open(name_file_path, "r") as name_file:
     names_list = name_file.readlines()

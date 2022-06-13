@@ -1,7 +1,7 @@
 from turtle import Turtle
 
 POSITION = (0, 270)
-FILE_LOCATION = "./data.txt"
+FILE_LOCATION = "data.txt"
 
 class Score(Turtle):
 

@@ -1,9 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="first attempt at nato name spell">
-      <change afterPath="$PROJECT_DIR$/Day 29/Intermediate/main_day29.py" afterDir="false" />
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="name - nato phonetic spell - second try">
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 32/Intermediate/main_day32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 32/Intermediate/playgroud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/Begginer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 1/Begginer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Begginer/main_day10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 10/Begginer/main_day10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Projects/Number Guessing Game/logo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 10/Projects/Number Guessing Game/logo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Projects/Number Guessing Game/number_guessing_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 10/Projects/Number Guessing Game/number_guessing_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Begginer/exercise1_day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Begginer/exercise1_day11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Begginer/exercise2_day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Begginer/exercise2_day11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Begginer/exercise3_day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Begginer/exercise3_day11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Begginer/main_day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Begginer/main_day11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Projects/Higher Lower/game_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Projects/Higher Lower/game_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Projects/Higher Lower/higher_lower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 11/Projects/Higher Lower/higher_lower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Intermediate/main_day12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Intermediate/main_day12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Intermediate/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Intermediate/oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine OOP/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine OOP/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine OOP/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine OOP/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine OOP/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine OOP/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine OOP/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine/coffee_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Projects/Coffee Machine/coffee_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 12/Projects/Coffee Machine/coffee_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 13/Intermediate/main_day13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 13/Intermediate/main_day13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Intermediate/Main_day14.Py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 14/Intermediate/Main_day14.Py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Projects/Quiz game/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 14/Projects/Quiz game/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Projects/Quiz game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 14/Projects/Quiz game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Projects/Quiz game/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 14/Projects/Quiz game/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Projects/Quiz game/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 14/Projects/Quiz game/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 15/Projects/Quiz game/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 15/Projects/Quiz game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 15/Projects/Quiz game/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Projects/Quiz game/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 15/Projects/Quiz game/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/Intermediate/update.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 16/Intermediate/update.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Intermediate/main_day17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 17/Intermediate/main_day17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Intermediate/turtle_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 17/Intermediate/turtle_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Intermediate/turtle_exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 17/Intermediate/turtle_exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting/swiss.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 17/Projects/The Hirst Painting/swiss.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Projects/The Hirst Painting/the_painting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 17/Projects/The Hirst Painting/the_painting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/Intermediate/main_day18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 18/Intermediate/main_day18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/Projects/Etch-a-Sketch/etch-a-sketch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 18/Projects/Etch-a-Sketch/etch-a-sketch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 18/Projects/Turtle Race/turtle_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 18/Projects/Turtle Race/turtle_race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 19/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 19/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Begginer/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Begginer/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Begginer/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Begginer/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Begginer/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Begginer/exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Begginer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Begginer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Projects/Band_Name_Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Projects/Band_Name_Generator/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Projects/Tip_Calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/Projects/Tip_Calculator/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 20/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 20/Snake Game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Intermediate/main_day21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 21/Intermediate/main_day21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 21/Snake Game/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 21/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 21/Snake Game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 21/Snake Game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Intermediate/main_day22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Intermediate/main_day22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Pong game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Pong game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Pong game/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Pong game/paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Snake Game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Snake Game/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Snake Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Snake Game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/Projects/Snake Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 22/Projects/Snake Game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 23/Projects/Pong game/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 23/Projects/Pong game/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 23/Projects/Pong game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 23/Projects/Pong game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 23/Projects/Pong game/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 23/Projects/Pong game/paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 23/Projects/Pong game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 23/Projects/Pong game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 24/Projects/Turtle Crossing game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 24/Projects/Turtle Crossing game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 24/Projects/Turtle Crossing game/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 24/Projects/Turtle Crossing game/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25/Turtle Crossing/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 25/Turtle Crossing/car_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25/Turtle Crossing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 25/Turtle Crossing/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25/Turtle Crossing/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 25/Turtle Crossing/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25/Turtle Crossing/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 25/Turtle Crossing/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Intermediate/Exercise 2/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Intermediate/Exercise 2/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Projects/Snake Game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Projects/Snake Game/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Projects/Snake Game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Projects/Snake Game/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Projects/Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Projects/Snake Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Projects/Snake Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Projects/Snake Game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 26/Projects/Snake Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 26/Projects/Snake Game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/Intermediate/Exercise 1/main_day27_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 27/Intermediate/Exercise 1/main_day27_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/Intermediate/Exercise 1/new_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 27/Intermediate/Exercise 1/new_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/Intermediate/Exercise 1/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 27/Intermediate/Exercise 1/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/Intermediate/Exercise 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 27/Intermediate/Exercise 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/Intermediate/Exercise 2/squirrel_count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 27/Intermediate/Exercise 2/squirrel_count.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Intermediate/main_day29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Intermediate/main_day29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/NATO name spell/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/NATO name spell/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/NATO name spell/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/NATO name spell/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/US States game/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/US States game/50_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/US States game/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/US States game/blank_states_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/US States game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/US States game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/Projects/US States game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 29/Projects/US States game/states_to_learn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/exercise5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/exercise5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Begginer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Begginer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Projects/Treasure_Island/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/Projects/Treasure_Island/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/Exercise 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/Exercise 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/Exercise 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/Exercise 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/Exercise 3/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/Exercise 3/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/Exercise 3/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/Exercise 3/file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/Exercise 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/Exercise 3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 30/Intermediate/main_day30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 30/Intermediate/main_day30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Intermediate/Exercise 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Intermediate/Exercise 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Intermediate/Exercise 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Intermediate/Exercise 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Intermediate/main_day31.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Intermediate/main_day31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/NATO name spell/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/NATO name spell/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/NATO name spell/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/NATO name spell/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/US States game/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/US States game/50_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/US States game/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/US States game/blank_states_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/US States game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/US States game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 31/Projects/US States game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Day 31/Projects/US States game/states_to_learn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/exercise6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/exercise6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Begginer/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Begginer/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Projects/PyPasswordGenerator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Projects/PyPasswordGenerator/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Projects/Rock_Paper_Scissors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/Projects/Rock_Paper_Scissors/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Begginer/day5_exercise1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/Begginer/day5_exercise1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Begginer/day5_exercise2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/Begginer/day5_exercise2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Begginer/main_day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/Begginer/main_day5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Project/day5_project1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/Project/day5_project1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Begginer/exercise1_day6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Begginer/exercise1_day6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Begginer/exercise2_day6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Begginer/exercise2_day6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Begginer/main_day6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Begginer/main_day6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Projects/Caesar Cipher/caesar_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Projects/Hangman Game/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Projects/Hangman Game/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Projects/Hangman Game/hangman_documentation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 6/Projects/Hangman Game/hangman_documentation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Begginer/exercise1_day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/Begginer/exercise1_day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Begginer/exercise2_day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/Begginer/exercise2_day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Begginer/exercise3_day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/Begginer/exercise3_day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Begginer/main_day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/Begginer/main_day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/Projects/Secret Auction/secret_auction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/Projects/Secret Auction/secret_auction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 8/Projects/Blackjack/blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Blackjack/old_blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 8/Projects/Blackjack/old_blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Blackjack/old_blackjack2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 8/Projects/Blackjack/old_blackjack2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Calculator/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 8/Projects/Calculator/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Projects/Calculator/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 8/Projects/Calculator/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Projects/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 9/Projects/Blackjack/blackjack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +175,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Day 6/Projects/Caesar Cipher/caesar_cipher.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Beginner/Day 6/Projects/Caesar Cipher/caesar_cipher.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,31 +191,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Pycharm/Learning_Python/Day 29/Projects/US States game",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 31/Projects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Day 31\Projects" />
+      <recent name="D:\Pycharm\Learning_Python\Day 31" />
+      <recent name="D:\Pycharm\Learning_Python\Day 30\Intermediate\Exercise 3" />
+      <recent name="D:\Pycharm\Learning_Python\Day 30\Intermediate\Exerrcise 2" />
       <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate" />
-      <recent name="D:\Pycharm\Learning_Python\Day 26\Intermediate\Exercise 1" />
-      <recent name="D:\Pycharm\Learning_Python\Day 26\Projects" />
-      <recent name="D:\Pycharm\Learning_Python\Day 23\Projects\Pong game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Intermediate" />
+      <recent name="D:\Pycharm\Learning_Python\Beginner" />
+      <recent name="D:\Pycharm\Learning_Python\Day 31\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\NATO name spell" />
       <recent name="D:\Pycharm\Learning_Python\Day 29\Intermediate" />
-      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
-      <recent name="D:\Pycharm\Learning_Python\Day 28\Project" />
-      <recent name="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_day29">
+  <component name="RunManager" selected="Python.main_day32">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Projects/US States game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Intermediate/Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Projects/US States game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Intermediate/Exercise 1/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Projects/NATO name spell" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Intermediate/Exercise 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Projects/NATO name spell/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Intermediate/Exercise 2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 28/Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Projects/NATO name spell" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 28/Project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Projects/NATO name spell/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day27_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_day31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27/Intermediate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Pycharm\Learning_Python\Day 27\Intermediate\Exercise 1\main_day27_pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Intermediate/main_day31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_day32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 29/Intermediate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 32/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 29/Intermediate/main_day29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 32/Intermediate/main_day32.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_day29" />
+        <item itemvalue="Python.main_day32" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main_day31" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main_day27_pandas" />
       </list>
     </recent_temporary>
   </component>
@@ -185,83 +339,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00074" summary="update files with database pulled from opentdb.com">
-      <created>1653125678135</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1653125678135</updated>
-    </task>
-    <task id="LOCAL-00075" summary="workspace files">
-      <created>1653125742346</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1653125742346</updated>
-    </task>
-    <task id="LOCAL-00076" summary="day 16 updates">
-      <created>1653546031586</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1653546031587</updated>
-    </task>
-    <task id="LOCAL-00077" summary="turtle and graphical user interface">
-      <created>1653561616339</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1653561616339</updated>
-    </task>
-    <task id="LOCAL-00078" summary="hirst painting project using python turtle">
-      <created>1653572808582</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1653572808582</updated>
-    </task>
-    <task id="LOCAL-00079" summary="workspace files">
-      <created>1653572823495</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1653572823495</updated>
-    </task>
-    <task id="LOCAL-00080" summary="update">
-      <created>1653580713179</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1653580713179</updated>
-    </task>
-    <task id="LOCAL-00081" summary="instances, state and higher order functions">
-      <created>1653642992601</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1653642992601</updated>
-    </task>
-    <task id="LOCAL-00082" summary="small projects">
-      <created>1653643009754</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1653643009754</updated>
-    </task>
-    <task id="LOCAL-00083" summary="workspace files">
-      <created>1653657538735</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1653657538735</updated>
-    </task>
-    <task id="LOCAL-00084" summary="started work on a bigger project - one wee all loved as a child - snake game">
-      <created>1653737579534</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1653737579534</updated>
     </task>
     <task id="LOCAL-00085" summary="workspace files">
       <created>1653737601079</created>
@@ -529,7 +606,84 @@
       <option name="project" value="LOCAL" />
       <updated>1654880308319</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="list comprehension">
+      <created>1654881245374</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1654881245374</updated>
+    </task>
+    <task id="LOCAL-00124" summary="workspace">
+      <created>1654881254293</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1654881254293</updated>
+    </task>
+    <task id="LOCAL-00125" summary="list comprehension exercises">
+      <created>1654969287530</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1654969287530</updated>
+    </task>
+    <task id="LOCAL-00126" summary="list comprehension exercise - harder version working with files">
+      <created>1654970399840</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1654970399840</updated>
+    </task>
+    <task id="LOCAL-00127" summary="list comprehension exercise - harder version working with files">
+      <created>1654970474994</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1654970474994</updated>
+    </task>
+    <task id="LOCAL-00128" summary="list comprehension exercise - update old project with list comprehension">
+      <created>1655018905203</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1655018905203</updated>
+    </task>
+    <task id="LOCAL-00129" summary="moved files and dictionary comprehension">
+      <created>1655019729834</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1655019729834</updated>
+    </task>
+    <task id="LOCAL-00130" summary="exercise with dictionary comprehension">
+      <created>1655020376229</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1655020376229</updated>
+    </task>
+    <task id="LOCAL-00131" summary="exercise 2 with dictionary comprehension">
+      <created>1655020707841</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1655020707841</updated>
+    </task>
+    <task id="LOCAL-00132" summary="pandas iterrows method - looping through a data frame">
+      <created>1655021444476</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1655021444476</updated>
+    </task>
+    <task id="LOCAL-00133" summary="name - nato phonetic spell - second try">
+      <created>1655023713038</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1655023713038</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -547,16 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="snake game reloaded :)" />
-    <MESSAGE value="starting to work on snake game from scratch" />
-    <MESSAGE value="split the code to make it more clear and understandable and to reflect better the oop" />
-    <MESSAGE value="workspace updates" />
-    <MESSAGE value="updates" />
-    <MESSAGE value="snake game movement updates" />
-    <MESSAGE value="learning about Inheritance" />
-    <MESSAGE value="implement inheritance in snake game" />
-    <MESSAGE value="almost finished with the Snake Game - still have to implement collision and a game over scene" />
-    <MESSAGE value="finished snake game" />
     <MESSAGE value="python list slicing learning" />
     <MESSAGE value="pong game - the beginning" />
     <MESSAGE value="finished Pong game" />
@@ -572,6 +716,16 @@
     <MESSAGE value="us state guessing game" />
     <MESSAGE value="small update" />
     <MESSAGE value="first attempt at nato name spell" />
-    <option name="LAST_COMMIT_MESSAGE" value="first attempt at nato name spell" />
+    <MESSAGE value="list comprehension" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="list comprehension exercises" />
+    <MESSAGE value="list comprehension exercise - harder version working with files" />
+    <MESSAGE value="list comprehension exercise - update old project with list comprehension" />
+    <MESSAGE value="moved files and dictionary comprehension" />
+    <MESSAGE value="exercise with dictionary comprehension" />
+    <MESSAGE value="exercise 2 with dictionary comprehension" />
+    <MESSAGE value="pandas iterrows method - looping through a data frame" />
+    <MESSAGE value="name - nato phonetic spell - second try" />
+    <option name="LAST_COMMIT_MESSAGE" value="name - nato phonetic spell - second try" />
   </component>
 </project>
