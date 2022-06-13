@@ -21,3 +21,16 @@ def calculate(n, **kwargs):  # the kwargs is basically a dictionary
 
 
 calculate(2, add=3, multiply=5)
+
+
+class Car:
+
+    def __init__(self, **kw):
+        self.make = kw["make"]  # if make is not provided this line will return an error
+        self.model = kw.get("model")  # if model is not provided this line will return NONE and no error
+        self.seats = kw.get("seats")
+#       .... -> more can be added
+
+
+my_car = Car(make="nissan", model="gtr")
+print(my_car.model)
