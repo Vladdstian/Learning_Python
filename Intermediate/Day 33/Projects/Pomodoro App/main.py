@@ -11,15 +11,18 @@ FONT_NAME = "Courier"
 WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
-CHECKMARK = "✔"
 reps = 0
+timer = None
 
 
 # ---------------------------- TIMER RESET ------------------------------- #
-
 def reset_clicked():
+    window.after_cancel(timer)
     canvas.itemconfig(timer_text, text="00:00")
-
+    title_label.config(text="Timer")
+    check_label.config(text=" ")
+    global reps
+    reps = 0
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
 def start_clicked():
@@ -50,9 +53,15 @@ def count_down(count):
         count_min = f"0{count_min}"
     canvas.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
     if count > 0:
-        window.after(1000, count_down, count - 1)
+        global timer
+        timer = window.after(1000, count_down, count - 1)
     else:
         start_clicked()
+        marks = ""
+        for _ in range(math.floor(reps % 2)):
+            marks += "✔"
+            check_label.config(text=marks)
+
 
 # ---------------------------- UI SETUP ------------------------------- #
 
@@ -74,7 +83,7 @@ reset_button.grid(column=2, row=2)
 title_label = Label(text="TIMER", bg=YELLOW, fg=GREEN, font=(FONT_NAME, 24, "bold"))
 title_label.grid(column=1, row=0)
 
-check_label = Label(text=CHECKMARK, bg=YELLOW, fg=GREEN, font=(FONT_NAME, 15, "bold"))
+check_label = Label(text="", bg=YELLOW, fg=GREEN, font=(FONT_NAME, 15, "bold"))
 check_label.grid(column=1, row=3)
 
 window.mainloop()
