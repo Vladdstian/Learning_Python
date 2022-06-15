@@ -6,12 +6,18 @@ from tkinter import *
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save_data():
+    website = website_entry.get()
+    email = email_entry.get()
+    password = pass_entry.get()
+
     with open("data.txt", "a") as data_file:
-        data_file.write(f"{website_entry.get()} | {email_entry.get()} | {pass_entry.get()}\n")
+        data_file.write(f"{website} | {email} | {password}\n")
+    tkinter.messagebox.askokcancel(title=website, message=f"These are the login details entered:\n"
+                                                          f"Email: {email}\n"
+                                                          f"Password: {password}\n"
+                                                          f"Is it ok to save?")
     website_entry.delete(0, END)
     pass_entry.delete(0, END)
-    tkinter.messagebox.showinfo(title="Congratulations!", message="Your account and password has been saved!")
-
 
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
