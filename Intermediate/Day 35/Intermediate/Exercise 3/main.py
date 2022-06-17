@@ -21,3 +21,4 @@ def generate_phonetic():
 
 
 generate_phonetic()
+
