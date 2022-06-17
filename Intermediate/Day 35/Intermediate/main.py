@@ -28,9 +28,21 @@
 #    block -> do this no matter what happens
 
 try:
-    file = open("a_file.txt")
-except:
-    open("a_file.txt", "w")
-    print("There was an error")
+    file = open("a_file.txt")  # file error
+    a_dictionary = {"key": "value"}
+    print(a_dictionary["key"])  # key error
+except FileNotFoundError:  # having only an except will catch all errors
+    file = open("a_file.txt", "w")
+    file.write("Something")
+    print("There was a file not found error")
+except KeyError as error_message:
+    print(f"There was key error. The key {error_message} does not exist")
+else:
+    content = file.read()
+    print(content)
+finally:
+    file.close()
+    print("File was closed.")
+
 
 
