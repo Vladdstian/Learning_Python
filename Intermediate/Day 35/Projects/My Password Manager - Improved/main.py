@@ -1,6 +1,7 @@
-import tkinter.messagebox
 from tkinter import *
 from random import choice, randint, shuffle
+from tkinter import messagebox
+
 import pyperclip
 import json
 
@@ -42,7 +43,7 @@ def save_data():
         }
     }
     if len(website) == 0 or len(password) == 0:
-        tkinter.messagebox.showinfo(title="Oops", message="Please don't leave any of the fields empty!")
+        messagebox.showinfo(title="Oops", message="Please don't leave any of the fields empty!")
     else:
         try:
             with open("data.json", "r") as data_file:
@@ -61,6 +62,23 @@ def save_data():
         finally:
             website_entry.delete(0, END)
             pass_entry.delete(0, END)
+
+
+# ---------------------------- FIND PASSWORD ------------------------------- #
+def find_password():
+    website = website_entry.get()
+    try:
+        with open("data.json") as data_file:
+            data = json.load(data_file)
+    except FileNotFoundError:
+        messagebox.showinfo(title="Error", message="No Data File Found.")
+    else:
+        if website in data:
+            email = data[website]["email"]
+            password = data[website]["password"]
+            messagebox.showinfo(title=website, message=f"Email: {email}\nPassword: {password}")
+        else:
+            messagebox.showinfo(title="Error", message=f"No details for {website} exists.")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -92,6 +110,8 @@ pass_entry = Entry(width=17)
 pass_entry.grid(row=3, column=1)
 
 # Buttons
+search_button = Button(text="Search", width=13, command=find_password)
+search_button.grid(row=1, column=2)
 gen_pass = Button(text="Generate Password", command=generate_password)
 gen_pass.grid(row=3, column=2)
 add_button = Button(text="Add", width=30, command=save_data)
