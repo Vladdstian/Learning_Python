@@ -41,6 +41,7 @@ else:
     content = file.read()
     print(content)
 finally:
+    raise
     file.close()
     print("File was closed.")
 
