@@ -30,7 +30,7 @@ for post in facebook_posts:
     try:
         total_likes = total_likes + post['Likes']
     except KeyError:
-        post['Likes'] = 0
+        post['Likes'] = 0  # or pass
 
 print(total_likes)
 
