@@ -1,7 +1,7 @@
 # sending emails with Python
 import smtplib
 
-my_email = "insert_email@gmail.com"
+my_email = "appbreweryinfo@gmail.com"
 password = "abcd1234()"
 
 with smtplib.SMTP("smtp.gmail.com") as connection:
