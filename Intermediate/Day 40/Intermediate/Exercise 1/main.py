@@ -7,7 +7,7 @@ def get_quote():
     kanye_connection = requests.get(url="https://api.kanye.rest")
     kanye_connection.raise_for_status()
     kanye_quote = kanye_connection.json()["quote"]
-    canvas.itemconfigure(quote_text, text=kanye_quote)
+    canvas.itemconfig(quote_text, text=kanye_quote)
 
 window = Tk()
 window.title("Kanye Says...")
