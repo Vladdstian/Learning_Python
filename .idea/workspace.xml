@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="Project: Pomodoro timer">
+    <list default="true" id="4e8357e2-e893-453a-94c4-c55c2ade75ac" name="Changes" comment="working with APIs - parameters">
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 41/Intermediate/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,24 +41,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Day 31/Projects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pycharm/Learning_Python/Intermediate/Day 37/Project/Flash Card&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 37\Project\Flash Card" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 37" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 35\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 31\Projects" />
       <recent name="D:\Pycharm\Learning_Python\Day 31" />
-      <recent name="D:\Pycharm\Learning_Python\Day 30\Intermediate\Exercise 3" />
-      <recent name="D:\Pycharm\Learning_Python\Day 30\Intermediate\Exerrcise 2" />
-      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\US States game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 33\Projects\Pomodoro App" />
-      <recent name="D:\Pycharm\Learning_Python\Intermediate" />
-      <recent name="D:\Pycharm\Learning_Python\Beginner" />
-      <recent name="D:\Pycharm\Learning_Python\Day 31\Projects" />
-      <recent name="D:\Pycharm\Learning_Python\Day 29\Projects\NATO name spell" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 40\Intermediate\Exercise 1" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 39\Projects\ISS overhead notification project" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 38\Projects\Automated birthday wisher\letter_templates" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 38\Projects\Automated birthday wisher" />
+      <recent name="D:\Pycharm\Learning_Python\Intermediate\Day 38\Projects\Monday Motivational Quote" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
@@ -69,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 33/Projects/Pomodoro App" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 40/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 33/Projects/Pomodoro App/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 40/Intermediate/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +91,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Projects/NATO name spell" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 40/Intermediate/Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Projects/NATO name spell/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 40/Intermediate/Exercise 1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 41/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 41/Intermediate/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 38/Intermediate/smtp module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 38/Intermediate/smtp module/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,53 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 32/Projects/Km to miles converter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 38/Projects/Monday Motivational Quote" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 32/Projects/Km to miles converter/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_day31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Intermediate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Intermediate/main_day31.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_day32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 32/Intermediate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 32/Intermediate/main_day32.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 38/Projects/Monday Motivational Quote/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,10 +170,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main_day32" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main_day31" />
+        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,237 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651991463069</updated>
-    </task>
-    <task id="LOCAL-00095" summary="learning about Inheritance">
-      <created>1653915781947</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1653915781947</updated>
-    </task>
-    <task id="LOCAL-00096" summary="implement inheritance in snake game">
-      <created>1653932631714</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1653932631714</updated>
-    </task>
-    <task id="LOCAL-00097" summary="almost finished with the Snake Game - still have to implement collision and a game over scene">
-      <created>1653934887407</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1653934887407</updated>
-    </task>
-    <task id="LOCAL-00098" summary="workspace files">
-      <created>1653934898677</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1653934898677</updated>
-    </task>
-    <task id="LOCAL-00099" summary="workspace files">
-      <created>1653934943204</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1653934943204</updated>
-    </task>
-    <task id="LOCAL-00100" summary="finished snake game">
-      <created>1653992537035</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1653992537035</updated>
-    </task>
-    <task id="LOCAL-00101" summary="python list slicing learning">
-      <created>1653992565840</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1653992565840</updated>
-    </task>
-    <task id="LOCAL-00102" summary="python list slicing learning">
-      <created>1653992628065</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1653992628065</updated>
-    </task>
-    <task id="LOCAL-00103" summary="pong game - the beginning">
-      <created>1654016559465</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1654016559465</updated>
-    </task>
-    <task id="LOCAL-00104" summary="workspace files">
-      <created>1654016569146</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1654016569147</updated>
-    </task>
-    <task id="LOCAL-00105" summary="finished Pong game">
-      <created>1654089613665</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1654089613665</updated>
-    </task>
-    <task id="LOCAL-00106" summary="workspace files">
-      <created>1654089624310</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1654089624310</updated>
-    </task>
-    <task id="LOCAL-00107" summary="improved snake game. added highs-core data file to keep track of the all-time high score">
-      <created>1654525286899</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1654525286899</updated>
-    </task>
-    <task id="LOCAL-00108" summary="workspace files">
-      <created>1654525299614</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1654525299614</updated>
-    </task>
-    <task id="LOCAL-00109" summary="improved file reading location">
-      <created>1654525947051</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1654525947051</updated>
-    </task>
-    <task id="LOCAL-00110" summary="exercise for working with files and file directories">
-      <created>1654529406308</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1654529406308</updated>
-    </task>
-    <task id="LOCAL-00111" summary="csv file formatting">
-      <created>1654534541714</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1654534541714</updated>
-    </task>
-    <task id="LOCAL-00112" summary="csv file formatting">
-      <created>1654534547106</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1654534547106</updated>
-    </task>
-    <task id="LOCAL-00113" summary="pandas training continuation">
-      <created>1654610445286</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1654610445287</updated>
-    </task>
-    <task id="LOCAL-00114" summary="pandas training continuation">
-      <created>1654610532366</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1654610532366</updated>
-    </task>
-    <task id="LOCAL-00115" summary="pandas training continuation">
-      <created>1654612524381</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1654612524381</updated>
-    </task>
-    <task id="LOCAL-00116" summary="reorganise files">
-      <created>1654612765758</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1654612765758</updated>
-    </task>
-    <task id="LOCAL-00117" summary="yesterday unsaved files">
-      <created>1654709478885</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1654709478885</updated>
-    </task>
-    <task id="LOCAL-00118" summary="yesterday unsaved files">
-      <created>1654709488232</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1654709488232</updated>
-    </task>
-    <task id="LOCAL-00119" summary="files reorder">
-      <created>1654872565766</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1654872565767</updated>
-    </task>
-    <task id="LOCAL-00120" summary="us state guessing game">
-      <created>1654878076262</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1654878076262</updated>
-    </task>
-    <task id="LOCAL-00121" summary="small update">
-      <created>1654878199699</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1654878199699</updated>
-    </task>
-    <task id="LOCAL-00122" summary="first attempt at nato name spell">
-      <created>1654880308319</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1654880308319</updated>
-    </task>
-    <task id="LOCAL-00123" summary="list comprehension">
-      <created>1654881245374</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1654881245374</updated>
-    </task>
-    <task id="LOCAL-00124" summary="workspace">
-      <created>1654881254293</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1654881254293</updated>
-    </task>
-    <task id="LOCAL-00125" summary="list comprehension exercises">
-      <created>1654969287530</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1654969287530</updated>
-    </task>
-    <task id="LOCAL-00126" summary="list comprehension exercise - harder version working with files">
-      <created>1654970399840</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1654970399840</updated>
-    </task>
-    <task id="LOCAL-00127" summary="list comprehension exercise - harder version working with files">
-      <created>1654970474994</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1654970474994</updated>
     </task>
     <task id="LOCAL-00128" summary="list comprehension exercise - update old project with list comprehension">
       <created>1655018905203</created>
@@ -528,7 +298,238 @@
       <option name="project" value="LOCAL" />
       <updated>1655225247917</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Project: Pomodoro timer">
+      <created>1655225279256</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1655225279256</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Project: working on a password manager app">
+      <created>1655307166956</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1655307166957</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Project: working on a password manager app - updates - save entries to a file on local computer">
+      <created>1655309118314</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1655309118314</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Project: working on a password manager app - updates - save entries to a file on local computer">
+      <created>1655309820596</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1655309820596</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Project: MyPass password manager app">
+      <created>1655310746154</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1655310746154</updated>
+    </task>
+    <task id="LOCAL-00149" summary="learning: errors and exceptions">
+      <created>1655477253422</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1655477253422</updated>
+    </task>
+    <task id="LOCAL-00150" summary="learning: errors and exceptions">
+      <created>1655478642236</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1655478642236</updated>
+    </task>
+    <task id="LOCAL-00151" summary="learning: errors and exceptions">
+      <created>1655478824699</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1655478824699</updated>
+    </task>
+    <task id="LOCAL-00152" summary="learning: errors and exceptions">
+      <created>1655480061483</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1655480061483</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Exercise 1 - errors and exceptions">
+      <created>1655481560340</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1655481560340</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Exercise 2 - errors and exceptions">
+      <created>1655482225960</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1655482225960</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Exercise 2 - errors and exceptions">
+      <created>1655482241984</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1655482241984</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Exercise 2 - errors and exceptions">
+      <created>1655482981534</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1655482981534</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Exercise 3 - errors and exceptions">
+      <created>1655482998505</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1655482998505</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Project: Password Manager - with exception and error handling">
+      <created>1655485920851</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1655485920851</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Project: Password Manager - added search button - to search for an already saved password">
+      <created>1655486278771</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1655486278771</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Project: Password Manager - added search button - to search for an already saved password">
+      <created>1655486311672</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1655486311672</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Capstone Project: Flash Card">
+      <created>1655568435112</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1655568435112</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Capstone Project: Flash Card - updates">
+      <created>1655569375331</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1655569375331</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Capstone Project: Flash Card - day 2">
+      <created>1655740893151</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1655740893151</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Capstone Project: Flash Card - day 2 - final project">
+      <created>1655741419578</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1655741419578</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Capstone Project: Flash Card - day 2 - final project - reorder items inside the window">
+      <created>1655741564183</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1655741564183</updated>
+    </task>
+    <task id="LOCAL-00166" summary="working with SMTP to send emails with Python">
+      <created>1655807712661</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1655807712661</updated>
+    </task>
+    <task id="LOCAL-00167" summary="SMTP + datetime modules">
+      <created>1655808442268</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1655808442268</updated>
+    </task>
+    <task id="LOCAL-00168" summary="small project - send email with a motivational quote if it is a particular day of the week">
+      <created>1655810342656</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1655810342656</updated>
+    </task>
+    <task id="LOCAL-00169" summary="small project - send happy birthday email">
+      <created>1655814478479</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1655814478479</updated>
+    </task>
+    <task id="LOCAL-00170" summary="small project with API-s">
+      <created>1655919970875</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1655919970876</updated>
+    </task>
+    <task id="LOCAL-00171" summary="working with API's">
+      <created>1655969215906</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1655969215906</updated>
+    </task>
+    <task id="LOCAL-00172" summary="working with API's - exercise 1 - Kanye quotes">
+      <created>1655982002330</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1655982002330</updated>
+    </task>
+    <task id="LOCAL-00173" summary="working with API's - exercise 1 - Kanye quotes">
+      <created>1655982060887</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1655982060887</updated>
+    </task>
+    <task id="LOCAL-00174" summary="working with API's - exercise 1 - Kanye quotes">
+      <created>1656069690516</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1656069690517</updated>
+    </task>
+    <task id="LOCAL-00175" summary="working with APIs - parameters">
+      <created>1656071418968</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1656071418968</updated>
+    </task>
+    <task id="LOCAL-00176" summary="working with APIs - parameters">
+      <created>1656071701044</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1656071701044</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -546,31 +547,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="improved file reading location" />
-    <MESSAGE value="exercise for working with files and file directories" />
-    <MESSAGE value="csv file formatting" />
-    <MESSAGE value="pandas training continuation" />
-    <MESSAGE value="reorganise files" />
-    <MESSAGE value="yesterday unsaved files" />
-    <MESSAGE value="files reorder" />
-    <MESSAGE value="us state guessing game" />
-    <MESSAGE value="small update" />
-    <MESSAGE value="first attempt at nato name spell" />
-    <MESSAGE value="list comprehension" />
-    <MESSAGE value="workspace" />
-    <MESSAGE value="list comprehension exercises" />
-    <MESSAGE value="list comprehension exercise - harder version working with files" />
-    <MESSAGE value="list comprehension exercise - update old project with list comprehension" />
-    <MESSAGE value="moved files and dictionary comprehension" />
-    <MESSAGE value="exercise with dictionary comprehension" />
-    <MESSAGE value="exercise 2 with dictionary comprehension" />
-    <MESSAGE value="pandas iterrows method - looping through a data frame" />
-    <MESSAGE value="name - nato phonetic spell - second try" />
-    <MESSAGE value="file management update" />
-    <MESSAGE value="*args and **kwargs" />
     <MESSAGE value="more GUI with tkinter" />
     <MESSAGE value="Project: km to miles converter" />
     <MESSAGE value="Project: Pomodoro timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project: Pomodoro timer" />
+    <MESSAGE value="Project: working on a password manager app" />
+    <MESSAGE value="Project: working on a password manager app - updates - save entries to a file on local computer" />
+    <MESSAGE value="Project: MyPass password manager app" />
+    <MESSAGE value="learning: errors and exceptions" />
+    <MESSAGE value="Exercise 1 - errors and exceptions" />
+    <MESSAGE value="Exercise 2 - errors and exceptions" />
+    <MESSAGE value="Exercise 3 - errors and exceptions" />
+    <MESSAGE value="Project: Password Manager - with exception and error handling" />
+    <MESSAGE value="Project: Password Manager - added search button - to search for an already saved password" />
+    <MESSAGE value="Capstone Project: Flash Card" />
+    <MESSAGE value="Capstone Project: Flash Card - updates" />
+    <MESSAGE value="Capstone Project: Flash Card - day 2" />
+    <MESSAGE value="Capstone Project: Flash Card - day 2 - final project" />
+    <MESSAGE value="Capstone Project: Flash Card - day 2 - final project - reorder items inside the window" />
+    <MESSAGE value="working with SMTP to send emails with Python" />
+    <MESSAGE value="SMTP + datetime modules" />
+    <MESSAGE value="small project - send email with a motivational quote if it is a particular day of the week" />
+    <MESSAGE value="small project - send happy birthday email" />
+    <MESSAGE value="small project with API-s" />
+    <MESSAGE value="working with API's" />
+    <MESSAGE value="working with API's - exercise 1 - Kanye quotes" />
+    <MESSAGE value="working with APIs - parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="working with APIs - parameters" />
   </component>
 </project>
