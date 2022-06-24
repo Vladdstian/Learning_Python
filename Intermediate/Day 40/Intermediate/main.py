@@ -32,9 +32,29 @@ elif response.status_code == 401:
 
 response.raise_for_status()  # it will raise an error for the specific error with an explanation
 
-data = response.json()["iss_position"] # this is the actual data
+data = response.json()["iss_position"]  # this is the actual data
 longitude = response.json()["iss_position"]["longitude"]
 latitude = response.json()["iss_position"]["latitude"]
 print(data)
 print(longitude)
 print(latitude)
+
+# API parameters
+# usually they are provided in the API documentation and some of them are required and some of them are optional
+
+# Parameters required for https://api.sunrise-sunset.org/json are lat and lng in order to give us the
+# sunset and sunrise at a specific location
+
+MY_LAT = 44.426765
+MY_LONG = 26.102537
+
+parameters = {
+    "lat": MY_LAT,
+    "lng": MY_LONG
+}
+
+response_2 = requests.get(url="https://api.sunrise-sunset.org/json", params=parameters)
+response_2.raise_for_status()
+
+data_2 = response_2.json()
+print(data_2)
