@@ -38,4 +38,3 @@ latitude = response.json()["iss_position"]["latitude"]
 print(data)
 print(longitude)
 print(latitude)
-
