@@ -3,10 +3,10 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_EMAIL = "___YOUR_EMAIL_HERE____"
-MY_PASSWORD = "___YOUR_PASSWORD_HERE___"
-MY_LAT = 51.507351 # Your latitude
-MY_LONG = -0.127758 # Your longitude
+MY_EMAIL = "a_made_up_email@gmail.com"
+MY_PASSWORD = "123456789"
+MY_LAT = 51.507351  # Your latitude
+MY_LONG = -0.127758  # Your longitude
 
 
 def is_iss_overhead():
@@ -17,8 +17,8 @@ def is_iss_overhead():
     iss_latitude = float(data["iss_position"]["latitude"])
     iss_longitude = float(data["iss_position"]["longitude"])
 
-    #Your position is within +5 or -5 degrees of the iss position.
-    if MY_LAT-5 <= iss_latitude <= MY_LAT+5 and MY_LONG-5 <= iss_longitude <= MY_LONG+5:
+    # Your position is within +5 or -5 degrees of the iss position.
+    if MY_LAT - 5 <= iss_latitude <= MY_LAT + 5 and MY_LONG - 5 <= iss_longitude <= MY_LONG + 5:
         return True
 
 
@@ -51,5 +51,3 @@ while True:
             to_addrs=MY_EMAIL,
             msg="Subject:Look Up👆\n\nThe ISS is above you in the sky."
         )
-
-
